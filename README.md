@@ -1,16 +1,17 @@
-### Hi there 👋
+<img width="1101" alt="Screen Shot 2022-02-18 at 9 56 59 AM" src="https://user-images.githubusercontent.com/95489992/154709639-4a93cf73-dcc0-4ebe-9020-97c5526b8d84.png">
 
-<!--
-**NicoleBarranca/NicoleBarranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! 👋 👩‍💻
+<p>Welcome to my GitHub profile!</p>
+<p>My name is Nicole and I am a developer currently looking for opportunities to learn and grow my skills.</p>
 
-Here are some ideas to get you started:
+<p>Logic and creativity interest me equally. I love learning new technologies and collaborating with a team to create quality and useful products!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to connect? find me on 👉 <a href="https://www.linkedin.com/in/nicole-barranca-8b20b617b/">LinkinIn</a>
+
+## Tools I Use 🔧
+
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
+<p>Bootstrap</p>
+<p>Figma</p>
