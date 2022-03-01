@@ -4,10 +4,10 @@
 # Hello! 👋
 
 
-My name is Nicole and I am a **dedicated Wed developer**.📱 💻
+My name is Nicole and I am a **dedicated Wed developer**. 💻
 
-<p> I am currently working with JavaScript and Node.js. My favorite aspect of development is design and I love to learn new CSS frameworks, but I also thoroughly enjoy creating the logic behind a beautiful app. I Learning new technologies and collaborating with a team to create quality and useful products
-Want to connect? Find me on 👉 <a href="https://www.linkedin.com/in/nicole-barranca-8b20b617b/">LinkinIn</a> </p>
+<p> I am currently working with JavaScript and Node.js., One of my favorite aspects of development is style, however, I thoroughly enjoy creating the logic behind a beautifully styled app. I am always learning new technologies, so please feel free to suggest the ones you like to work with!
+Lets connect! Find me on <a href="https://www.linkedin.com/in/nicole-barranca-8b20b617b/">LinkinIn</a>📱</p> 
 
 
 ## Tools I Use
