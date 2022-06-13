@@ -6,7 +6,7 @@
 
 My name is Nicole and I am a dedicated **Full Stack Wed developer**. 💻
 
-I am currently working with JavaScript and Node.js., One of my favorite aspects of development is style, however, I thoroughly enjoy creating the logic behind a beautifully styled app. I am always learning new technologies, so please feel free to suggest the ones you like to work with! Connect with me on <a href="https://www.linkedin.com/in/nicole-barranca/">LinkedIn</a>📱 or contact me directly at nikkibarranca@gmail.com.
+I am currently working with React to build MERN stack applications. One of my favorite aspects of development is style, however, I thoroughly enjoy creating the logic behind a beautifully styled app. I am always learning new technologies, so please feel free to suggest the ones you like to work with! Connect with me on <a href="https://www.linkedin.com/in/nicole-barranca/">LinkedIn</a>📱 or contact me directly at nikkibarranca@gmail.com.
 
 
 ## Tools I Use
@@ -20,7 +20,8 @@ I am currently working with JavaScript and Node.js., One of my favorite aspects 
         <td>MVC</td>
         <td>JavaScript</td>
         <td>JQuery</td>
-        <td>MERN</td>
+        <td>GraphQL</td>
+        <td>MongoDB</td>
     </tr>
     <tr>
         <td>OOP</td>
@@ -31,6 +32,7 @@ I am currently working with JavaScript and Node.js., One of my favorite aspects 
         <td>NoSQL</td>
         <td>SQL</td>
         <td>React</td>
+        <td>Heroku</td>
     </tr>
 </table>
 
