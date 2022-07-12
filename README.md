@@ -1,5 +1,5 @@
 
-<img width="870" alt="Screen Shot 2022-03-01 at 9 40 19 AM" src="https://user-images.githubusercontent.com/95489992/156189332-2ff1b266-2d4d-4cf3-8456-1077da4c2ee7.png">
+<img width="900" alt="Screen Shot 2022-03-01 at 9 40 19 AM" src="https://user-images.githubusercontent.com/95489992/156189332-2ff1b266-2d4d-4cf3-8456-1077da4c2ee7.png">
 
 # Hello! 👋
 
